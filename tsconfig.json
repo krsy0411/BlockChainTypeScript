@@ -1,0 +1,8 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "outDir": "build",
+    "module": "CommonJS",
+    "target": "ES5"
+  }
+}
